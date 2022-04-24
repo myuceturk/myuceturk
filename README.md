@@ -8,14 +8,7 @@
 <hr/>
 
 <h3>Technologies I Use</h3>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' width='30'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' width='30'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' width='30'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' width='33'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' width='30'/>
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' width='33'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' width='30'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' width='33'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' width='33'/>
 
 
 <!--
