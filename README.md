@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <hr/>
-<p>I'm Mecit, I graduated from Pamukkale University Computer Programming in 2015 and from Trakya University Computer Education and Instructional Technologies Department in 2020. I am interested in Web and Mobile Programming. I am open to development and I continue to improve myself. 
+
+<p>I'm Mecit, I graduated from Pamukkale University Computer Programming in 2015 and from Trakya University Computer Education and Instructional Technologies Department in 2020. I am interested in Web and Mobile Programming. I am open to development and I continue to improve myself. Please do not forget to review and follow my projects. :eyes:
 </p>
 
+<hr/>
 
 
 <!--
