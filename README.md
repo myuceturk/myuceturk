@@ -8,11 +8,14 @@
 <hr/>
 
 ### Technologies I Use
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' width='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/flutter-logo.svg' width='40'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/flutter-logo.svg' height='40'/>
 
 <hr/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/myuceturk/git-badges)](https://badges.pufler.dev)
+[![Github Badge](https://img.shields.io/badge/-myuceturk-3C3B3B?style=flat&logo=github&logoColor=white)](https://github.com/myuceturk)
+[![Gmail Badge](https://img.shields.io/badge/-mecit.yuceturk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mecit.yuceturk@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-myuceturk-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/myuceturk/ "Connect on LinkedIn")
+![](https://visitor-badge.glitch.me/badge?page_id=myuceturk)
 
 <!--
 **myuceturk/myuceturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
