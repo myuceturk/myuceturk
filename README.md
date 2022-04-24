@@ -6,19 +6,19 @@
 </p>
 
 <hr/>
-<!--
+
 <h3>Technologies I Use</h3>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' width='30'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' width='30'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' width='30'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' width='33'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' width='30'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' width='33'/>
 
 
-
+<!--
 **myuceturk/myuceturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
