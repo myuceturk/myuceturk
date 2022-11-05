@@ -8,7 +8,7 @@
 <hr/>
 
 ### Technologies I Use
- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/flutter-logo.svg' height='40'/>
+ <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/html.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/css.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/js.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/bootstrap.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/php.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/sql.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/git.svg' height='40'/> <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/react.svg' height='40'/> <!-- <img src = 'https://github.com/myuceturk/myuceturk/blob/main/images/flutter-logo.svg' height='40'/> -->
 
 <hr/>
 
